@@ -1,0 +1,5 @@
+[book]
+authors = ["Jane Lusby"]
+multilingual = false
+src = "src"
+title = "crappydocs"
